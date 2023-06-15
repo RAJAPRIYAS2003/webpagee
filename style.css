@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nli4 a button {
+    font-weight: 500;
+    font-size: 16px;
+    color: azure;
+    text-decoration: none;
+}
+
+.navcontainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: black;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.nav-links {
+    list-style-type: none;
+
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 20px;
+
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: antiquewhite;
+
+}
+
+.nav-links li a:hover {
+    color: rgb(238, 241, 18);
+}
+
+button {
+    padding: 9px 25px;
+    background-color: aqua;
+    border: none;
+    border-radius: 50px;
+}
+
+button:hover {
+    background-color: rgb(233, 192, 192);
+}
+
+.logo a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: medium;
+}
+
+.navcontainer1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: black;
+}
+
+.bar {
+    list-style-type: none;
+}
+
+.bar li {
+    display: inline-block;
+    padding: 0px 20px;
+
+}
+
+.bar li a {
+    list-style-type: none;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bar li a:hover {
+    color: blue;
+}
+
+.logo1 a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: large;
+}
+
+.navcontainer2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: black;
+}
+
+.logo2 {
+    cursor: pointer;
+}
+
+.stu {
+    list-style-type: none;
+
+}
+
+.stu li {
+    display: inline-block;
+    padding: 0px 20px;
+
+}
+
+.stu li a {
+    text-decoration: none;
+    color: antiquewhite;
+
+}
+
+.stu li a:hover {
+    color: rgb(238, 241, 18);
+}
+
+button {
+    padding: 9px 25px;
+    background-color: aqua;
+    border: none;
+    border-radius: 50px;
+}
+
+button:hover {
+    background-color: rgb(233, 192, 192);
+}
+
+.logo2 a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: medium;
+}
+
+.logo2 a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: large;
+}
+
+.logo2 a:hover {
+    color: aqua;
+}
